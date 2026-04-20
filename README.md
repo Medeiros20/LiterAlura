@@ -42,7 +42,7 @@ O LiterAlura é um sistema de catálogo de livros robusto desenvolvido em Java c
 ## ⚙️ Como executar o projeto
 ```
 # Clone o repositório
-git clone https://github.com/Medeiros20/literAlura.git
+git clone https://github.com/Dev-Joao-Medeiros/literAlura.git
 
 # Acesse a pasta do projeto
 cd literAlura
